@@ -1,0 +1,6 @@
+GET /test.txt HTTP/1.1
+Host: 127.0.0.1
+
+GET /webui.js HTTP/1.1
+Host: 127.0.0.1
+
